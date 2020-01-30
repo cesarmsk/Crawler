@@ -18,8 +18,11 @@ You get extra points for a faster crawler.
 
 Fork this repo and send it back to us with your implementation.
 
-<h2>To install please download the repository files, go to the project diretory and run in the prompt command: npm install</h2>
-<h2>To simulate please run in the prompt command: node index.js</h2>
+<h2>Installation</h2>
+To install please download the repository files, go to the project diretory and run in the prompt command: npm install
+
+<h2>Simulation</h2>
+To simulate please run in the prompt command: node index.js
 
 
 <h3>Thanks!!</h3>
