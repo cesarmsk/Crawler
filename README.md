@@ -22,7 +22,7 @@ Fork this repo and send it back to us with your implementation.
 To install please download the repository files, go to the project diretory and run in the prompt command: npm install
 
 <h2>Simulation</h2>
-To simulate please run in the prompt command: node index.js
+To simulate please run in the terminal or prompt command: node index.js
 
 
 <h3>Thanks!!</h3>
