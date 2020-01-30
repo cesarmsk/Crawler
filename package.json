@@ -1,0 +1,20 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "puppeteer poc",
+  "main": "index.js",
+  "dependencies": {
+    "chrome": "^0.1.0",
+    "chrome-remote-interface": "^0.28.1",
+    "describe": "^1.2.0",
+    "puppeteer-core": "^2.0.0",
+    "test": "^0.6.0"
+  },
+  
+  "devDependencies": {
+    "chromedriver": "^79.0.0",
+    "puppeteer": "^2.0.0"
+  },
+  "author": "massaki",
+  "license": "ISC"
+}
